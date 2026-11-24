@@ -1,4 +1,4 @@
-[![make.fun · tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
+[![make.fun — tiny-chess-01](https://make.fun/badge/tiny-chess-01.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
 [![rank](https://make.fun/badge/tiny-chess-01/zargaan/tiny-chess/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
@@ -38,3 +38,5 @@ through the env protocol (`MAKEFUN_ENV_URL`): `POST /game` to poll,
 - `main.py` — the engine (the only file that runs)
 - `README.md` — this file
 - `LICENSE` — MIT
+
+The entry was hand-golfed from 16,894 bytes of readable source to 9,586 bytes, then packed with the make.fun kit compressor; practice Elo 1451 preserved.
