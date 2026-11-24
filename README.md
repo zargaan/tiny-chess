@@ -7,7 +7,7 @@
 
 # Tiny Chess — a 4 KB chess engine
 
-`main.py` (4,094 bytes) is a complete chess engine in Python 3.13,
+`main.py` (3,866 bytes) is a complete chess engine in Python 3.13,
 standard library only. It plays the make.fun tiny-chess-01 gauntlet
 through the env protocol (`MAKEFUN_ENV_URL`): `POST /game` to poll,
 `/move` with a UCI move, `/resign` when lost.
